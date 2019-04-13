@@ -1,0 +1,2 @@
+https://github.com/Azure/Azure-TDSP-ProjectTemplate
+https://opdhsblobprod01.blob.core.windows.net/contents/4a6d75bb3af747de838e6ccc97c5d978/76e3298af200422ca086d6800fde4292?sv=2015-04-05&sr=b&sig=wbMY1u%2B3yEzCojLVexH08938OOx6MvuHPOetKSwXpTQ%3D&st=2019-04-13T13%3A44%3A33Z&se=2019-04-14T13%3A54%3A33Z&sp=r
