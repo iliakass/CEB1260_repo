@@ -1,1 +1,30 @@
+# Ref: http://donnees.ville.montreal.qc.ca/dataset/declarations-exterminations-punaises-de-lit/resource/6173de60-c2da-4d63-bc75-0607cb8dcb74
 
+    NO_DECLARATION : Numéro unique de déclaration
+    DATE_DECLARATION : Date de la déclaration
+    DATE_INSP_VISPRE : Date d'inspection préalable
+    NBR_EXTERMIN : Dans le cadre de l'intervention déclarée, nombre de fois qu'une extermination a été effectuée. Chaque extermination peut viser un ou plusieurs logements. De multiples exterminations notées pour une déclaration indiquent que le gestionnaire de parasite a constaté des indices de punaises de lit suite à l'extermination précédente et qu'il a réalisé une nouvelle extermination. Le nombre maximal d'exterminations permis par déclaration est de 4.
+    DATE_DEBUTTRAIT : Date de début de la première extermination associée à la déclaration
+    DATE_FINTRAIT : Date de fin de la dernière extermination associée à la déclaration
+    No_QR : Numéro du quartier de référence
+    NOM_QR : Nom du quartier de référence
+    NOM_ARROND : Nom de l'arrondissement
+    COORD_X :Coordonnées X (NAD83 MTM8)
+    COORD_Y : Coordonnées Y (NAD83 MTM8)
+    LONGITUDE : Coordonnées (WGS84)
+    LATITUDE: Coordonnées (WGS84)
+
+
+# Unused reference source: http://donnees.ville.montreal.qc.ca/dataset/declarations-exterminations-punaises-de-lit/resource/81a05c27-2563-4cf5-9c40-ffcc053e05de?inner_span=True
+
+
+    No_QR : Numéro du quartier de référence
+    NOM_QR : Nom du quartier de référence
+    AnneeDeclaration : Année de déclaration
+    NBR_LOGTRAITE : Somme des logements traités au cours de l'année et dans le quartier de référence. Dans le cadre d'une déclaration unique, un exterminateur peut réaliser jusqu'à quatre exterminations dont chacune peut viser un ou plusieurs logements. Si le nombre de logements varie d'une extermination à l'autre, c'est le nombre maximal de logements qui est retenu. Si dans la même année un bâtiment fait l'objet de multiples déclarations, les logements sont comptés multiples fois.
+    Pct_LogTraite_QR : Champ "nbr_logtraite" divisé par le nombre de logements par quartier de référence
+    NOM_ARROND : Nom de l'arrondissement
+
+  Précisions
+
+Une déclaration unique dans le quartier de référence René-Lévesque durant l'année 2013 indique 901 logements traités, ce qui est vraisemblablement une erreur de frappe,et fait augmenter considérablement le nombre de logements traités.
