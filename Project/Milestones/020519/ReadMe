@@ -1,1 +1,10 @@
-EDA file for analysis
+EDA notebook for analysis
+
+ 2 new fields
+DATE_DIFF field (between Declaration and Inspection Date)
+DEC_MONTH field (retrieved month from declaration).
+
+generated a few bar charts based on top 10 boroughs, neighborhoods and Months.
+generated a categorical x numeric.
+
+next steps: regression on this data
