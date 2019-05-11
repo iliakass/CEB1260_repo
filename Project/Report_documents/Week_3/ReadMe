@@ -1,12 +1,13 @@
 Data Wrangling & Cleaning
-○Find a relevant external dataset
-■Importing the dataset○Minor tasks
-■Summarizing your data for inspection
-■Fixing column name
-■Removing not relevant columns
-■Converting data types
-■Removing duplicates
-○Major tasks
-■Dealing with missing values
-■Dealing with outliers
-■Merging the external datasets
+  Find a relevant external dataset
+    Importing the dataset
+  Minor tasks
+    Summarizing your data for inspection
+    Fixing column name
+    Removing not relevant columns
+    Converting data types
+    Removing duplicates
+  Major tasks
+    Dealing with missing values
+    Dealing with outliers
+    Merging the external datasets
