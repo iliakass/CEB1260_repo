@@ -1,13 +1,25 @@
 Data Wrangling & Cleaning
-  Find a relevant external dataset
-    Importing the dataset
-  Minor tasks
+  ○ Find a relevant external dataset
+    ■ Importing the dataset
+  ○ Minor tasks
     ■ Summarizing your data for inspection
-    Fixing column name
-    Removing not relevant columns
-    Converting data types
-    Removing duplicates
-  Major tasks
-    Dealing with missing values
-    Dealing with outliers
-    Merging the external datasets
+    ■ Fixing column name
+    ■ Removing not relevant columns
+    ■ Converting data types
+    ■ Removing duplicates
+  ○ Major tasks
+    ■ Dealing with missing values
+    ■ Dealing with outliers
+    ■ Merging the external datasets
+
+Exploratory Data Analysis
+  ○ Load the clean dataset
+  ○ Data Perspective
+    ■ One variable
+    ■ Multiple Variables
+  ○ Business Perspective
+    ■ Descriptive Data Analysis
+    ■ Diagnostic Data Analysis
+    
+    ● For each Analysis (data and business perspective) add comments explaining the results. 
+    ● For each business analysis add a chart
