@@ -1,1 +1,7 @@
+//Proposed amendements:
 
+In [29]: df_bedbugs.groupby(by = 'LONG_LAT')['EXT_FREQ'].count().sortby()
+
+DATE_PRIOR_INSP change the null values
+DATE_LAST_EXT
+DATE_FIRST_EXT
