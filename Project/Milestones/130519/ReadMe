@@ -1,5 +1,7 @@
 //Proposed amendements:
 
+# Number of declarations without exterminations
+
 In [29]: df_bedbugs.groupby(by = 'LONG_LAT')['EXT_FREQ'].count().sortby()
 
 DATE_PRIOR_INSP change the null values
