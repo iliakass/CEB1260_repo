@@ -4,5 +4,6 @@
     ● Apply the necessary steps to build a machine learning model and submit the predictions
       ○ Feature Engineering
       ○ Model Training
-    ● Criterias○Number of submissions○Score evolution
+    ● Criterias○Number of submissions
+      ○ Score evolution
       ○ Final notebook
